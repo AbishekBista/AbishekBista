@@ -1,4 +1,4 @@
-# 💫 About Me: <br>👋 Hi, I’m @AbishekBista<br>👀 I’m interested in Web3, Web Development, Machine Learning and Games<br>🌱 I’m currently learning Solidity and Next.JS<br>💞️ I’m looking to collaborate on Web3 development<br>📫 How to reach me: Email me @abishekbista84@gmail.com
+# 💫 About Me:<br>👋 Hi, I’m @AbishekBista<br>👀 I’m interested in Web3, Web Development, Machine Learning and Games<br>🌱 I’m currently learning Solidity and Next.JS<br>💞️ I’m looking to collaborate on Web3 development<br>📫 How to reach me: Email me @abishekbista84@gmail.com
 
 
 ## 🌐 Socials:
